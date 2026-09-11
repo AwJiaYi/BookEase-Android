@@ -495,11 +495,22 @@ Recommended screenshots:
 After adding the images, this README can display them like this:
 
 ```markdown
+## Screenshots
+
+### Login
+![Login](docs/screenshots/01-login.png)
+
+### Register
+![Register](docs/screenshots/02-register.png)
+
 ### Home
 ![Home](docs/screenshots/03-home.png)
 
 ### Services
 ![Services](docs/screenshots/04-services.png)
+
+### Service Detail
+![Service Detail](docs/screenshots/05-service-detail.png)
 
 ### Booking
 ![Booking](docs/screenshots/06-booking.png)
@@ -507,8 +518,14 @@ After adding the images, this README can display them like this:
 ### My Bookings
 ![My Bookings](docs/screenshots/07-my-bookings.png)
 
-### Admin Panel
-![Admin Panel](docs/screenshots/08-admin-services.png)
+### Admin Services
+![Admin Services](docs/screenshots/08-admin-services.png)
+
+### Add Service
+![Add Service](docs/screenshots/09-add-service.png)
+
+### Edit Service
+![Edit Service](docs/screenshots/10-edit-service.png)
 ```
 
 ---
