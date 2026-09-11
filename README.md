@@ -471,32 +471,6 @@ The interface was refined using Jetpack Compose cards, loading states, error mes
 
 ## Screenshots
 
-Create the following folder:
-
-```text
-docs/screenshots/
-```
-
-Recommended screenshots:
-
-```text
-01-login.png
-02-register.png
-03-home.png
-04-services.png
-05-service-detail.png
-06-booking.png
-07-my-bookings.png
-08-admin-services.png
-09-add-service.png
-10-edit-service.png
-```
-
-After adding the images, this README can display them like this:
-
-```markdown
-## Screenshots
-
 ### Customer Flow
 
 <p align="center">
