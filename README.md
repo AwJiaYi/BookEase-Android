@@ -497,36 +497,31 @@ After adding the images, this README can display them like this:
 ```markdown
 ## Screenshots
 
-### Login
-![Login](docs/screenshots/01-login.png)
+### Customer Flow
 
-### Register
-![Register](docs/screenshots/02-register.png)
+<p align="center">
+  <img src="docs/screenshots/01-login.png" width="220">
+  <img src="docs/screenshots/02-register.png" width="220">
+  <img src="docs/screenshots/03-home.png" width="220">
+</p>
 
-### Home
-![Home](docs/screenshots/03-home.png)
+<p align="center">
+  <img src="docs/screenshots/04-services.png" width="220">
+  <img src="docs/screenshots/05-service-detail.png" width="220">
+  <img src="docs/screenshots/06-booking.png" width="220">
+</p>
 
-### Services
-![Services](docs/screenshots/04-services.png)
+<p align="center">
+  <img src="docs/screenshots/07-my-bookings.png" width="220">
+</p>
 
-### Service Detail
-![Service Detail](docs/screenshots/05-service-detail.png)
+### Admin Flow
 
-### Booking
-![Booking](docs/screenshots/06-booking.png)
-
-### My Bookings
-![My Bookings](docs/screenshots/07-my-bookings.png)
-
-### Admin Services
-![Admin Services](docs/screenshots/08-admin-services.png)
-
-### Add Service
-![Add Service](docs/screenshots/09-add-service.png)
-
-### Edit Service
-![Edit Service](docs/screenshots/10-edit-service.png)
-```
+<p align="center">
+  <img src="docs/screenshots/08-admin-services.png" width="220">
+  <img src="docs/screenshots/09-add-service.png" width="220">
+  <img src="docs/screenshots/10-edit-service.png" width="220">
+</p>
 
 ---
 
